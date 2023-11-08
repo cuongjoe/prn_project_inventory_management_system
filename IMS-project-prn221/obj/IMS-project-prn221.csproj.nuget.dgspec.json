@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nguye\\OneDrive\\Desktop\\IMS-project-prn221\\IMS-project-prn221\\IMS-project-prn221.csproj": {}
+    "D:\\Semester 7\\PROJECT_PRN\\prn_project_inventory_management_system\\IMS-project-prn221\\IMS-project-prn221.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nguye\\OneDrive\\Desktop\\IMS-project-prn221\\IMS-project-prn221\\IMS-project-prn221.csproj": {
+    "D:\\Semester 7\\PROJECT_PRN\\prn_project_inventory_management_system\\IMS-project-prn221\\IMS-project-prn221.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\IMS-project-prn221\\IMS-project-prn221\\IMS-project-prn221.csproj",
+        "projectUniqueName": "D:\\Semester 7\\PROJECT_PRN\\prn_project_inventory_management_system\\IMS-project-prn221\\IMS-project-prn221.csproj",
         "projectName": "IMS-project-prn221",
-        "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\IMS-project-prn221\\IMS-project-prn221\\IMS-project-prn221.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\IMS-project-prn221\\IMS-project-prn221\\obj\\",
+        "projectPath": "D:\\Semester 7\\PROJECT_PRN\\prn_project_inventory_management_system\\IMS-project-prn221\\IMS-project-prn221.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Semester 7\\PROJECT_PRN\\prn_project_inventory_management_system\\IMS-project-prn221\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,9 +40,9 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "dependencies": {
-            "LiveCharts.Wpf": {
+            "LiveCharts.WinForms": {
               "target": "Package",
-              "version": "[0.9.7, )"
+              "version": "[0.9.7.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -61,6 +61,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[4.10.26, )"
             }
           },
           "imports": [
@@ -82,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\nguye\OneDrive\Desktop\IMS-project-prn221\IMS-project-prn221\obj\Debug\net7.0-windows\
+D:\Semester 7\PROJECT_PRN\prn_project_inventory_management_system\IMS-project-prn221\obj\Debug\net7.0-windows\
 IMS_project_prn221
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\nguye\OneDrive\Desktop\IMS-project-prn221\IMS-project-prn221\App.xaml
-7461913116
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP;HAS_UNO;UNO_HAS_FRAMEWORKELEMENT_MEASUREOVERRIDE;UNO_HAS_NO_IDEPENDENCYOBJECT;UNO_REFERENCE_API
+D:\Semester 7\PROJECT_PRN\prn_project_inventory_management_system\IMS-project-prn221\App.xaml
+9-1889086639
 
-21-717990590
-234-802026251
-Chart.xaml;ChartWindow.xaml;HistoryOrderWindow.xaml;MainWindow.xaml;OrderWindow.xaml;SellWindow.xaml;WarehouseWindow.xaml;
+24-503785259
+2491129120044
+AddEmployees.xaml;Chart.xaml;ChartWindow.xaml;HistoryOrderWindow.xaml;MainWindow.xaml;OrderWindow.xaml;SellWindow.xaml;ViewEmployees.xaml;WarehouseWindow.xaml;
 
-True
+False
 
